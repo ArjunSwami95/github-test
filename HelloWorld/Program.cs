@@ -6,7 +6,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            DisplayHelper.DisplayText("Jai Sri Ram!!");
+            DisplayHelper.DisplayText("Jai Sri Ram!! Jai Hanuman");
         }
     }
 }
